@@ -62,7 +62,7 @@ Install these before running the application:
 ### 1. Clone the repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/hafijun-26/sweety-blood-glucose-tracker.git
 cd sweety-blood-glucose-tracker
 ```
 
